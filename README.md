@@ -1,17 +1,17 @@
 # YC Donations Analysis
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub stars](https://img.shields.io/github/stars/zenyc/yc_donations_analysis?style=social)
-![Issues](https://img.shields.io/github/issues/zenyc/yc_donations_analysis)
-![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/yc_donations_analysis)
-![GitHub contributors](https://img.shields.io/github/contributors/zenyc/yc_donations_analysis)
-![GitHub forks](https://img.shields.io/github/forks/zenyc/yc_donations_analysis?style=social)
+![GitHub stars](https://img.shields.io/github/stars/zenyc/yc-donations-analysis?style=social)
+![Issues](https://img.shields.io/github/issues/zenyc/yc-donations-analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/yc-donations-analysis)
+![GitHub contributors](https://img.shields.io/github/contributors/zenyc/yc-donations-analysis)
+![GitHub forks](https://img.shields.io/github/forks/zenyc/yc-donations-analysis?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-small.png)
 
 ## 🕯 About
-**yc_donations_analysis** is a *data science project* wherein data analysis was done on *Youth Club Pakistan's* donations data to make import conclusions.
+**yc-donations-analysis** is a *data science project* wherein data analysis was done on *Youth Club Pakistan's* donations data to make import conclusions.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
