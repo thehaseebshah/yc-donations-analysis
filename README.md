@@ -6,12 +6,12 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/yc-donations-analysis)
 ![GitHub contributors](https://img.shields.io/github/contributors/zenyc/yc-donations-analysis)
 ![GitHub forks](https://img.shields.io/github/forks/zenyc/yc-donations-analysis?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)](www.twitter.com/dialhaseeb)
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-small.png)
 
 ## 🕯 About
-**yc-donations-analysis** is a *data science project* wherein data analysis was done on *Youth Club Pakistan's* donations data to make import conclusions.
+**yc-donations-analysis** is a data science project wherein data analysis is done on *Youth Club Islamabad's* donations data to make important conclusions.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
@@ -19,7 +19,7 @@
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `Python`, `Jupyter`nd have access to data science libraries through latest `Anaconda Distribution`
+* You have installed the latest version of `Python`, `Tensorflow`, `Jupyter`nd have access to data science libraries through latest `Anaconda Distribution`
 * If not so, you can also run the notebooks and/or scripts on `Google Colaboratory`
 * You have a `<Windows/Linux/Mac>` machine. 
 
@@ -43,6 +43,8 @@ Windows:
 Open `Anaconda Navigator` and click Jupyter Notebook.
 
 2- Copy the project files to the directory the notebooks are running.
+
+3- Github has a file upload limit of 100 MBs. Therefore files for this project that are larger than this limit(if any) are uploaded to a *Google Drive* and the link is [bit.ly/proj-dir](www.bit.ly/proj-dir). If, while running the notebook, you see some errors regarding missing files, download them from this link. Afterwards, copy those file(s) to the project's *proj-dir* directory.
 
 3- Open main.ipynb
 
